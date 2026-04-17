@@ -11,7 +11,7 @@ jobs:
     strategy:
       matrix:
         build_env:
-          - tag: "23.05.5"
+          - tag: "23.05-SNAPSHOT"
             pkgarch: mipsel_24kc
             target: ipq53xx
             subtarget: generic
