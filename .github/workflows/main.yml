@@ -13,7 +13,7 @@ jobs:
         build_env:
           - tag: "23.05.5"
             pkgarch: mipsel_24kc
-            target: ipq60xx
+            target: ipq53xx
             subtarget: generic
             vermagic: "9bbeb3b224e3e25c93c10e0a5e1b66bd"
 
